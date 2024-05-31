@@ -1,0 +1,15 @@
+import = ["~/.dotfiles/.config/alacritty/alacritty-theme/themes/catppuccin_mocha.toml"]
+
+[window]
+decorations = "Full"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[font]
+size = 15
+normal.family = "JetBrainsMono Nerd Font"
+bold.family = "JetBrainsMono Nerd Font"
+italic.family = "JetBrainsMono Nerd Font"
+bold_italic.family = "JetBrainsMono Nerd Font"
