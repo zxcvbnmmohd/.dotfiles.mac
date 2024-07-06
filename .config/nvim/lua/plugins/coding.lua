@@ -158,7 +158,7 @@ return {
 					"css",
 					"scss",
 					"markdown",
-					"dart",
+					"graphql",
 				},
 				highlight = {
 					enable = true,

@@ -7,6 +7,8 @@ This directory contains the dotfiles for my system
 Ensure you have the following installed on your system:
 
 ```shell
+brew install --cask copilot-for-xcode
+
 brew tap leoafarias/fvm
 brew install fvm
 
